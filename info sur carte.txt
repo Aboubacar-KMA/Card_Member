@@ -1,0 +1,17 @@
+nom , /
+prenom , /
+QR Code(espace de membre sur le site) , / en bas a droite (a agrandir)
+url du site de l'asso , / au dessus du QR Code de l'espace membre
+QR Code des réseaux sociaux , / a la barre du haut
+statut(membre,trésorier,secrétaire,président) + ces dexuième grades en plus référent,bureau , -
+numéro de l'ahdérent , + et -
+date (d'adhésion,expiration,...) , +
+email de l'asso , +
+signature de l'ahdérent et d'un président , +
+logo de l'asso , +
+# adresse de l'asso ,
+
+/ = fait
+- = recto
++ = verso
+# = full flemme
